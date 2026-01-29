@@ -10,10 +10,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 </p>
-
-### 📊 My GitHub Stats
-![Aung Khant Nyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungkhantnyar51113-dev&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 Connect with me:
